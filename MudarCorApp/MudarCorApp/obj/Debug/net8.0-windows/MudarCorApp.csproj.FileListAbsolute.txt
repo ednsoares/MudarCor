@@ -1,0 +1,16 @@
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\bin\Debug\net8.0-windows\MudarCorApp.exe
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\bin\Debug\net8.0-windows\MudarCorApp.deps.json
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\bin\Debug\net8.0-windows\MudarCorApp.runtimeconfig.json
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\bin\Debug\net8.0-windows\MudarCorApp.dll
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\bin\Debug\net8.0-windows\MudarCorApp.pdb
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.Form1.resources
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.csproj.GenerateResource.cache
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.AssemblyInfoInputs.cache
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.AssemblyInfo.cs
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.csproj.CoreCompileInputs.cache
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.dll
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\refint\MudarCorApp.dll
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.pdb
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\MudarCorApp.genruntimeconfig.cache
+C:\Users\ednso\source\repos\MudarCorApp\MudarCorApp\obj\Debug\net8.0-windows\ref\MudarCorApp.dll
